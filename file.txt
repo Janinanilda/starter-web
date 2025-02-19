@@ -1,0 +1,11 @@
+Fork and CLone
+To copy and modify an existing project without impacting the project you can do a fork and clone. 
+Fork to  copy paste it to your github repository from the githhub where the project is currently residing and clone to put it in your local rep in your laptop
+
+
+
+
+
+https://meettheipsums.com/
+https://hipsum.co/. << filler text
+
